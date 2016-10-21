@@ -1,0 +1,33 @@
+Korisnik: Faruk Redžic(posjeduje 2 kartice za svoj racun)
+
+ID kartice: 1   |    ID kartice: 2
+PIN: 1111       |    PIN:2222     
+______________________________________________________________
+
+Korisnik: Edin Lonic(posjeduje 1 karticu za svoj racun)
+
+ID kartice: 3
+PIN:3333
+
+______________________________________________________________
+
+Korisnik: Faruk Hamzabegovic (posjeduje 3 kartice za svoj racun)
+
+ID kartice: 4   |    ID kartice: 5   |   ID kartice: 6
+PIN: 4444       |    PIN:5555        |   PIN: 6666
+______________________________________________________________
+Korisnik: Naida Frlj (posjeduje 2 kartice za svoj racun)
+
+ID kartice: 7   |    ID kartice: 8
+PIN: 7777       |    PIN:8888
+______________________________________________________________
+Korisnik: Ognjen Medan (posjeduje 1 karticu za svoj racun)
+
+ID kartice: 9
+PIN: 9999
+______________________________________________________________
+Korisnik: Efna Cano (posjeduje 1 karticu za svoj racun)
+
+ID kartice: 10
+PIN:1234
+  
